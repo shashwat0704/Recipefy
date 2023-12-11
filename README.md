@@ -11,3 +11,4 @@ Recipefy is a web application that queries recipe data from a cloud API. The app
 
 This web application is built using HTML, CSS3, SASS, JavaScript, NPM, Parcel.
 
+Demo : https://recipefyy.netlify.app/
